@@ -2,8 +2,8 @@
 
 ## About me:
 
-👋 Hi, I’m Isha Shekhar
-🌱 I’m a CompSci student at SDSU
+👋 Hi, I’m Isha Shekhar /n
+🌱 I’m a CompSci student at SDSU /n
 🎓 I am an exchange student from the UK
 
 <!--
