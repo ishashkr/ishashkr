@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## About me:
+
+👋 Hi, I’m Isha Shekhar
+🌱 I’m a CompSci student at SDSU
+🎓 I am an exchange student from the UK
+
 <!--
 **ishashkr/ishashkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
